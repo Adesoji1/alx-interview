@@ -1,2 +1,1 @@
-# alx-interview
- Software Engineer at Holberton School
+pascals triangle by Adesoji Alu
